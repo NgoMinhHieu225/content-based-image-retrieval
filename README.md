@@ -4,7 +4,7 @@ An end-to-end Content-Based Image Retrieval (CBIR) system engineered to power vi
 
 ## 🌟 Demo Preview
 
-![Uploading demo_web.png…]()
+![Demo Preview](demoweb1.png)
 
 
 ## 🚀 Key Features & Architecture
