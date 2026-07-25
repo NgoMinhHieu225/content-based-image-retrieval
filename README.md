@@ -4,7 +4,8 @@ An end-to-end Content-Based Image Retrieval (CBIR) system engineered to power vi
 
 ## 🌟 Demo Preview
 
-![Web Demo](demo_web.png)
+![Uploading demo_web.png…]()
+
 
 ## 🚀 Key Features & Architecture
 * **Deep Learning Feature Extraction:** Utilizes a PyTorch pretrained **ResNet50** model (removing the classification layer) to convert visual product data into robust 2048-dimensional mathematical feature vectors.
